@@ -1,0 +1,17 @@
+body{
+    background-color: white;
+    
+}
+img{
+     border-right: 10px solid red;
+    border-left: 10px solid green;
+    border-top: 10px solid blue;
+    border-bottom: 10px solid burlywood;
+    padding: 20px;
+    margin: 50px; 
+    
+}
+button style{
+    background-color: green; color: white;
+    border: none;
+}
